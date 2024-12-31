@@ -1,0 +1,35 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+
+body{
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.login{
+    font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#exampleInputEmail1{
+width: 27%;
+height: 60px;
+}
+#exampleInputPassword1{
+    width: 27%;
+    height: 60px;  
+}
+#password{
+padding-top: 21px;
+    text-decoration: none;
+}
+#password:hover{
+    color: red;
+}
+#button{
+    width: 27%;
+}
+#account{
+padding-top: 19px;
+    text-decoration: none
+}

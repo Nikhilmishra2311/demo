@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "bb-icons";
+  src: url('bb-icons.eot?t=1680184442593'); /* IE9*/
+  src: url('bb-icons.eot?t=1680184442593#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("bb-icons.woff2?t=1680184442593") format("woff2"),
+  url("bb-icons.woff?t=1680184442593") format("woff"),
+  url('bb-icons.ttf?t=1680184442593') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('bb-icons.svg?t=1680184442593#bb-icons') format('svg'); /* iOS 4.1- */
+}
+[class^="bb-icons-"], [class*=" bb-icons-"] {
+  font-family: 'bb-icons' !important;
+  font-size:inherit;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bb-icons-approve:before { content: "\ea01"; }
+.bb-icons-autumn:before { content: "\ea02"; }
+.bb-icons-award-badge:before { content: "\ea03"; }
+.bb-icons-beauty:before { content: "\ea04"; }
+.bb-icons-bedroom:before { content: "\ea05"; }
+.bb-icons-bookmark-flag:before { content: "\ea06"; }
+.bb-icons-bookmark:before { content: "\ea07"; }
+.bb-icons-budget-match-with-tick:before { content: "\ea08"; }
+.bb-icons-budget-match:before { content: "\ea09"; }
+.bb-icons-budget:before { content: "\ea0a"; }
+.bb-icons-cake:before { content: "\ea0b"; }
+.bb-icons-calendar:before { content: "\ea0c"; }
+.bb-icons-catering:before { content: "\ea0d"; }
+.bb-icons-checked:before { content: "\ea0e"; }
+.bb-icons-decoration:before { content: "\ea0f"; }
+.bb-icons-dress:before { content: "\ea10"; }
+.bb-icons-email:before { content: "\ea11"; }
+.bb-icons-entertainment:before { content: "\ea12"; }
+.bb-icons-favourites:before { content: "\ea13"; }
+.bb-icons-featured-supplier:before { content: "\ea14"; }
+.bb-icons-florist:before { content: "\ea15"; }
+.bb-icons-guest:before { content: "\ea16"; }
+.bb-icons-home:before { content: "\ea17"; }
+.bb-icons-hump:before { content: "\ea18"; }
+.bb-icons-location-filled:before { content: "\ea19"; }
+.bb-icons-marquee:before { content: "\ea1a"; }
+.bb-icons-menswear:before { content: "\ea1b"; }
+.bb-icons-music:before { content: "\ea1c"; }
+.bb-icons-note:before { content: "\ea1d"; }
+.bb-icons-pencil:before { content: "\ea1e"; }
+.bb-icons-photographer:before { content: "\ea1f"; }
+.bb-icons-planner:before { content: "\ea20"; }
+.bb-icons-review-filled:before { content: "\ea21"; }
+.bb-icons-review:before { content: "\ea22"; }
+.bb-icons-ring:before { content: "\ea23"; }
+.bb-icons-scrapbook:before { content: "\ea24"; }
+.bb-icons-search:before { content: "\ea25"; }
+.bb-icons-selected-tick:before { content: "\ea26"; }
+.bb-icons-settings:before { content: "\ea27"; }
+.bb-icons-shortlist-filled:before { content: "\ea28"; }
+.bb-icons-shortlist:before { content: "\ea29"; }
+.bb-icons-spring:before { content: "\ea2a"; }
+.bb-icons-stationery:before { content: "\ea2b"; }
+.bb-icons-summer:before { content: "\ea2c"; }
+.bb-icons-tickBold:before { content: "\ea2d"; }
+.bb-icons-tip:before { content: "\ea2e"; }
+.bb-icons-transport:before { content: "\ea2f"; }
+.bb-icons-trash:before { content: "\ea30"; }
+.bb-icons-venue:before { content: "\ea31"; }
+.bb-icons-video:before { content: "\ea32"; }
+.bb-icons-winter:before { content: "\ea33"; }
+[class^="bb-icons-"], [class*=" bb-icons-"] {
+  font-weight: 400;
+}

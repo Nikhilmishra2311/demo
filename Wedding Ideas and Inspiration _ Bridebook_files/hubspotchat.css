@@ -1,0 +1,5 @@
+#hubspot-messages-iframe-container {
+    top: env(safe-area-inset-bottom);
+    height: auto !important;
+    bottom: env(safe-area-inset-bottom);
+}
